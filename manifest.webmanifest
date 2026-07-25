@@ -1,0 +1,10 @@
+{
+  "name": "Webcrew",
+  "short_name": "Webcrew",
+  "icons": [
+    { "src": "icon-webcrew.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "icon-webcrew.png", "sizes": "512x512", "type": "image/png" }
+  ],
+  "start_url": "webcrew.html",
+  "display": "standalone"
+}
